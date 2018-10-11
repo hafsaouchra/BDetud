@@ -32,6 +32,7 @@ public class Etudiant {
 	public String toString() {
 		return "Etudiant [cne=" + cne + ", nom=" + nom + ", prenom=" + prenom + "]";
 	}
-	
-	
+	public static void main(){
+		System.out.println("test 1");
+	}
 }
